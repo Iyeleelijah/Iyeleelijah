@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cadmangamestd" target="blank"><img src="https://img.shields.io/twitter/follow/cadmangamestd?logo=twitter&style=for-the-badge" alt="cadmangamestd" /></a> </p>
 
-- 🔭 I’m currently working on **candy Swap Game**
+- 🔭 I’m currently working on **Candy Smash Game**
 
 - 🌱 I’m currently learning **Mobile App Development on Flutter (Dart Programming Language) and Unity for Game Development (C-sharp (C#) )**
 
