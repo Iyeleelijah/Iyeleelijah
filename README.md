@@ -13,7 +13,7 @@
 
 👨🏼‍🎓  **Studied Mathematic|Statistic and Computer Science at the Federal University of Agriculture,Benue State, Nigeria.**
 
-👨🏼‍💻Projects **I previously work on Calmx Music App and other Unity Mini Games**
+👨🏼‍💻 **I previously work on Calmx Music App and other Unity Mini Games**
 
 
 
