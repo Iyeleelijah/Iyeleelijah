@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **elijah.iyele@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/smah-elijah-12a6a5244/](https://www.linkedin.com/in/smah-elijah-12a6a5244/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
