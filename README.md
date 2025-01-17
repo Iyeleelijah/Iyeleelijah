@@ -15,9 +15,7 @@
 
 👨🏼‍💻Projects **I previously work on Calmx Music App and other Unity Mini Games**
 
-💬 Ask me about **Game Development and App Development**
-
-- 📫 How to reach me **elijah.iyele@gmail.com**
+📫 📨How to reach me **elijah.iyele@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
