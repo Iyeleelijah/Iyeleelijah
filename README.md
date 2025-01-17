@@ -15,7 +15,6 @@
 
 👨🏼‍💻Projects **I previously work on Calmx Music App and other Unity Mini Games**
 
-📫 Reach me via my handles
 
 
 <h3 align="left">Connect with me:</h3>
