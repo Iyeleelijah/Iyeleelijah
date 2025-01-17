@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/cadmangamestd" target="blank"><img src="https://img.shields.io/twitter/follow/cadmangamestd?logo=twitter&style=for-the-badge" alt="cadmangamestd" /></a> </p>
 
-- 🔭 I’m currently working on **Candy Smash Game**
+🧑‍💻🔭 I’m currently working on **Candy Smash Game**
 
-- 🌱 I’m currently learning **Mobile App Development on Flutter (Dart Programming Language) and Unity for Game Development (C-sharp (C#) )**
+📝🌱 I’m currently learning **Mobile App Development on Flutter (Dart Programming Language) and Unity for Game Development (C-sharp (C#) )**
 
-- 👨🏼‍🎓 Education **Studied Mathematic|Statistic and Computer Science at the Federal University of Agriculture,Benue State, Nigeria.**
+👨🏼‍🎓  **Studied Mathematic|Statistic and Computer Science at the Federal University of Agriculture,Benue State, Nigeria.**
 
-- 👨🏼‍💻Projects **I previously work on Calmx Music App and other Unity Mini Games**
+👨🏼‍💻Projects **I previously work on Calmx Music App and other Unity Mini Games**
 
-- 💬 Ask me about **Game Development and App Development**
+💬 Ask me about **Game Development and App Development**
 
 - 📫 How to reach me **elijah.iyele@gmail.com**
 
