@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<h2>🎮 Professional Profile</h2>
 <p>
   I am a passionate developer currently working on <strong>Candy Smash Game</strong>, a fun and interactive project designed to challenge my skills and deliver a delightful gaming experience.
 </p>
