@@ -1,19 +1,55 @@
 <h1 align="center">Hi 👋, I'm Elijah</h1>
 <h3 align="center">Passionate Mobile App and Game Developer inspired by exploring apps and games to craft engaging, user-focused experiences while pursuing my dream of innovation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyeleelijah&label=Profile%20views&color=0e75b6&style=flat" alt="iyeleelijah" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iyeleelijah&label=Profile%20views&color=0e75b6&style=flat" alt="iyeleelijah" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyeleelijah" alt="iyeleelijah" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iyeleelijah" alt="iyeleelijah" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/cadmangamestd" target="blank"><img src="https://img.shields.io/twitter/follow/cadmangamestd?logo=twitter&style=for-the-badge" alt="cadmangamestd" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/cadmangamestd" target="blank">
+    <img src="https://img.shields.io/twitter/follow/cadmangamestd?logo=twitter&style=for-the-badge" alt="cadmangamestd" />
+  </a>
+</p>
 
-🧑‍💻🔭 I’m currently working on **Candy Smash Game**
+<h2>🎮 Professional Profile</h2>
+<p>
+  I am a passionate developer currently working on <strong>Candy Smash Game</strong>, a fun and interactive project designed to challenge my skills and deliver a delightful gaming experience.
+</p>
 
-📝🌱 I’m currently learning **Mobile App Development on Flutter (Dart Programming Language) and Unity for Game Development (C-sharp (C#) )**
+<h3>📱 Skills and Expertise</h3>
+<ul>
+  <li>Specializing in <strong>Mobile App Development</strong> using <strong>Flutter (Dart)</strong>.</li>
+  <li>Game Development with <strong>Unity (C#)</strong>.</li>
+  <li>Strong foundation in <strong>Mathematics, Statistics, and Computer Science</strong>.</li>
+</ul>
 
-👨🏼‍🎓  **Studied Mathematic|Statistic and Computer Science at the Federal University of Agriculture,Benue State, Nigeria.**
+<h3>👨🏼‍🎓 Education</h3>
+<p>
+  Studied <strong>Mathematics, Statistics, and Computer Science</strong> at the 
+  <strong>Federal University of Agriculture, Benue State, Nigeria</strong>.
+</p>
 
-👨🏼‍💻 **I previously work on Calmx Music App and other Unity Mini Games**
+<h3>💻 Previous Work</h3>
+<ul>
+  <li><strong>Calmx Music App</strong>: Developed a dynamic music player app with a seamless user experience.</li>
+  <li>Created various <strong>Unity Mini Games</strong>, enhancing gameplay mechanics, optimization, and design.</li>
+</ul>
+
+<h3>🌟 What I’m Learning</h3>
+<p>
+  I am constantly expanding my expertise in mobile and game development, exploring new tools and technologies to deliver cutting-edge applications and games.
+</p>
+
+<h3>📌 My Goal</h3>
+<p>
+  I aim to collaborate, innovate, and build solutions that combine creativity and technology to make an impact.
+</p>
 
 
 
