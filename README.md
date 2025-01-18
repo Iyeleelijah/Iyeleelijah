@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elijah</h1>
-<h3 align="center">Passionate Mobile App and Game Developer inspired by exploring apps and games to craft engaging, user-focused experiences while pursuing my dream of innovation</h3>
+<h3 align="center">Passionate Mobile App and Game Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iyeleelijah&label=Profile%20views&color=0e75b6&style=flat" alt="iyeleelijah" />
