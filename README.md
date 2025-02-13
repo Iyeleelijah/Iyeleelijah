@@ -58,8 +58,18 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/smah-elijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smah elijah" height="30" width="40" /></a>
-  <a href="https://instagram.com/iyeleelijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iyeleelijah" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/smah-elijah" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="smah elijah" height="30" width="100" />
+  </a>
+  <a href="https://instagram.com/iyeleelijah" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="iyeleelijah" height="30" width="100" />
+  </a>
+  <a href="https://www.fiverr.com/users/cadman_graphix" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" height="30" width="100" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~012da5a6c8512ef3f4" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="30" width="100" />
+  </a>
 </p>
 
 ---
