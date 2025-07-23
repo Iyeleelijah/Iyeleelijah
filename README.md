@@ -26,8 +26,6 @@
 
 ## 🔧 Skills & Expertise
 - **Mobile App Development:** `Flutter (Dart)`, `Kotlin`
-- **Game Development:** `Unity (C#)`, `Game Mechanics`, `Physics Simulation`
-- **Web Development:** `HTML`, `CSS`, `JavaScript`, `React`
 - **State Management:** `Provider`, `Riverpod`, `Bloc`
 - **Backend & APIs:** `Firebase`, `REST API Integration`, `GraphQL`
 - **Database Management:** `SQLite`, `Hive`, `Firestore`
@@ -37,21 +35,18 @@
 - **Third-Party Integrations:** `Google Maps API`, `Payment Gateways (Stripe, PayPal)`
 - **Testing & Quality Assurance:** `Unit Testing`, `Integration Testing`, `UI Testing`
 - **Other Technologies:** `R Programming`, `SPSS`, `Microsoft Word`
-- **Mathematical & Computational Skills:** `Mathematics`, `Statistics`, `Computer Science`
+
 
 ---
 
 ## 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+
+
+
 </p>
 
 ---
